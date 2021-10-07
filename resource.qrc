@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>res/main/satellite1.svg</file>
+        <file>res/main/satellite2.svg</file>
+        <file>res/view/Data1.svg</file>
+        <file>res/view/Data2.svg</file>
+        <file>res/view/Navigation.svg</file>
+        <file>res/menu/Open1.ico</file>
+        <file>res/menu/Open2.svg</file>
+        <file>res/menu/Return1.svg</file>
+        <file>res/menu/Return2.svg</file>
+        <file>res/menu/Return3.svg</file>
+        <file>res/menu/Return4.svg</file>
+        <file>res/menu/Save.ico</file>
+        <file>res/menu/SaveNav.png</file>
+        <file>res/menu/SaveSD.png</file>
+        <file>res/color/Dark.png</file>
+        <file>res/color/White.png</file>
+        <file>res/graph/Graph1.png</file>
+        <file>res/graph/Graph2.png</file>
+        <file>res/graph/Graph3.png</file>
+        <file>res/menu/Settings.png</file>
+        <file>res/main/Rocket.png</file>
+    </qresource>
+</RCC>
